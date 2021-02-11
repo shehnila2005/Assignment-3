@@ -1,0 +1,20 @@
+div {
+  background-color: lightpink;
+  width: 300px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+}
+
+.center {
+  text-align: center;
+  border: 3px solid blue;
+}
+
+body {
+  color: blue;
+}
+
+h1 {
+  color: green;
+}
